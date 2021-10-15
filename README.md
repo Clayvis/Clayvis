@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Clay
-- 👀 I’m interested in full stack software development although I lean more to the front-end. 
-- 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on developing my skills. 
-- 📫 How to reach me at clayvis27@gmail.com
+- Welcome, I’m Clay.
+- I am a Full Stack Software Developer with my strengths in React, JavaScript, HTML/CSS, SQL, and .Net Core.
+- I’m currently learning C#.
+- I’m always looking to collaborate on developing my skills. 
+- You can always reach me at clayvis27@gmail.com
 
 <!---
 Clayvis/Clayvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
