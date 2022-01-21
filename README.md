@@ -1,5 +1,5 @@
 - Welcome, I’m Clay.
-- I am a Full Stack Software Developer with my strengths in React, JavaScript, HTML/CSS, SQL, C# and .Net Core.
+- I am a Software Developer with my strengths in React, JavaScript, HTML/CSS, SQL, C# and .Net Core.
 - I’m currently learning Java.
 - I’m always looking to collaborate on developing my skills. 
 - Take a look at my repositories !!!
