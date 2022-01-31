@@ -1,6 +1,5 @@
 - Welcome, I’m Clay.
-- I am a Software Developer with my strengths in React, JavaScript, HTML/CSS, SQL, C# and .Net Core.
-- I’m currently learning Java.
+- My strengths are Java , React, JavaScript, HTML/CSS, SQL, C# and .Net Core.
 - I’m always looking to collaborate on developing my skills. 
 - Take a look at my repositories !!!
 - You can always reach me at clayvis27@gmail.com
